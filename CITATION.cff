@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these research materials, please cite this repository."
+title: "Robust Equity-Aware Spatial Optimization of Mobile Diagnostic Imaging Services Under Infrastructure Uncertainty: Ghana Research Materials"
+type: dataset
+authors:
+  - given-names: Peter
+    family-names: Sarpong
+  - name: Antwiwaah Charity Boateng
+  - name: Doris Pokuaa Kwarteng
+repository-code: "https://github.com/petersarpong1157-cmyk/ghana-robust-mobile-imaging"
+abstract: "Aggregate analytical results and computational documentation for scenario-based spatial optimization of hypothetical mobile diagnostic imaging services in Ghana."
+keywords:
+  - spatial optimization
+  - healthcare accessibility
+  - diagnostic imaging
+  - geographical equity
+  - robust optimization
+  - Ghana
