@@ -1,3 +1,3 @@
 # Reuse and licensing
 
-No blanket software or data licence has been assigned. Third-party sources retain their applicable terms; see DATA_ACCESS.md. The archive currently contains aggregate research outputs and documentation. Permission to redistribute additional source code, detailed geographic records and third-party derived data must be confirmed before inclusion. Manuscripts, figures, private audits and raw third-party datasets are intentionally excluded.
+The research team has confirmed public redistribution of the recovered research code. No blanket software or data license has been assigned; this confirmation does not confer a general downstream license. Third-party sources retain applicable terms; see DATA_ACCESS.md. Redistribution of detailed geographic records and third-party inputs remains subject to source-specific review. Manuscripts, rendered figures, private audit reports and raw third-party datasets are excluded.
