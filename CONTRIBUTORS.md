@@ -1,6 +1,7 @@
-# Research contributors
+# Research authors
 
-- Antwiwaah Charity Boateng
-- Doris Pokuaa Kwarteng
+1. Peter Sarpong — First author
+2. Antwiwaah Charity Boateng — Second author
+3. Doris Pokuaa Kwarteng — Third author
 
-Specific contribution roles and final bibliographic authorship order are pending confirmation. This acknowledgement does not establish a CRediT role or author order.
+Specific CRediT contribution roles are pending confirmation.
