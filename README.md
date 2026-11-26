@@ -10,3 +10,8 @@ The principal 60 allocations were reproduced from saved upstream inputs. Full ra
 
 ## Archive policy
 The manuscript, all figures, private audit records, and raw third-party datasets are excluded. This repository is a work in progress, not a certified standalone reproduction package.
+
+## Research contributors
+
+- Antwiwaah Charity Boateng
+- Doris Pokuaa Kwarteng
