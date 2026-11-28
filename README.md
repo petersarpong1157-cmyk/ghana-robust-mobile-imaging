@@ -34,4 +34,4 @@ See [CITATION.cff](CITATION.cff). The previous archive v4.1.7 has reported DOI h
 
 ## Reuse
 
-The authors have confirmed public redistribution of the recovered research code. This is not a blanket software or data license. Third-party source-specific permissions remain applicable. Manuscripts, rendered figures, private audit reports, raw third-party inputs and detailed geographic datasets are intentionally excluded.
+Original research software owned by Peter Sarpong is licensed under the [MIT License](LICENSE). This license does not cover third-party code or data, externally sourced materials, or research datasets and tables; their existing terms remain applicable. No rights beyond those held by the licensor are granted. Third-party source-specific permissions remain applicable. Manuscripts, rendered figures, private audit reports, raw third-party inputs and detailed geographic datasets are intentionally excluded.
